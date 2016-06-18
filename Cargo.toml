@@ -1,0 +1,11 @@
+[package]
+name = "rustcyp"
+version = "0.0.1"
+authors = ["Michael Aaron Murphy <mmstickman@gmail.com>"]
+
+[dependencies]
+hyper = "0.9.8"
+serde = "0.7.10"
+serde_macros = "0.7.10"
+serde_json = "0.7.0"
+colored = "1.2.0"
